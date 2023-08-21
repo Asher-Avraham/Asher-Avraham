@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asher-Avraham
-- 👀 I’m interested in everything technology
+- 👀 I’m interested in building full stack apps.
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/asheravraham/
 
