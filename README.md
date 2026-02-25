@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asher-Avraham
 - 👀 I’m interested in building full stack apps.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m always learning, right now I'm learning focusing on devops and platform engineering.
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/asheravraham/
 
 <!---
